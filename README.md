@@ -1,4 +1,4 @@
-<img   src="https://media.istockphoto.com/photos/mountain-landscape-picture-id517188688?k=20&m=517188688&s=612x612&w=0&h=i38qBm2P-6V4vZVEaMy_TaTEaoCMkYhvLCysE7yJQ5Q=">
+<img width="100%" height="300"  src="http://logoman.ca/wp-content/uploads/2018/01/Slider-Banner-Programming-Image-.jpg">
 <h1 align="center">Hi 👋, I'm Divyansh Pandey</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
